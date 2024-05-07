@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-This is my new projects.
+This is my new project.
